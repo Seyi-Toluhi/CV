@@ -1,4 +1,5 @@
-# Seyi Toluhi - Sofware Developer
+# <p align="center" style="font-weight: bold; font-size: 30px;">Seyi Toluhi - Sofware Developer</p>
+
 [About Me](https://github.com/Seyi-Toluhi/CV/blob/main/README.md#about-me) | [Tech Skills](https://github.com/Seyi-Toluhi/CV/blob/main/README.md#tech-skills) | [Projects](https://github.com/Seyi-Toluhi/CV/blob/main/README.md#projects) | [Soft Skills](https://github.com/Seyi-Toluhi/CV/blob/main/README.md#soft-skills) | [Education](https://github.com/Seyi-Toluhi/CV/blob/main/README.md#education) | [Experience](https://github.com/Seyi-Toluhi/CV/blob/main/README.md#experience) | [Résumé PDF](https://github.com/Seyi-Toluhi/CV/blob/main/C.V%20-%20Oluwaseyi%20Toluhi.pdf)
 # About me
 A dedicated software developer, always striving to innovate and excel in crafting efficient solutions. With over 5 years of experience as a Legal officer and HO compliance caseworker, I will leverage my natural attention to detail, creativity and experience with clients to coding and consultation with clients. Throughout my experience, I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems with clientele and software.
