@@ -1,5 +1,5 @@
 # Seyi Toluhi - Sofware Developer
-About Me | Tech Skills | Projects | General Skills | Experience | Education | Hobbies | Résumé PDF
+About Me | Tech Skills | Projects | General Skills | Experience | Education | Hobbies | [Résumé PDF](https://github.com/Seyi-Toluhi/CV/blob/main/C.V%20-%20Oluwaseyi%20Toluhi.pdf)
 # About me
 A dedicated software developer, always striving to innovate and excel in crafting efficient solutions. With over 5 years of experience as a Legal officer and HO compliance caseworker, I will leverage my natural attention to detail, creativity and experience with clients to coding and consultation with clients. Throughout my experience, I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems with clientele and software.
 
