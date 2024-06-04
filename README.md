@@ -86,44 +86,7 @@ I’m currently working on [Lingo Voyage](https://github.com/Seyi-Toluhi/languag
 </table>
 
 # Soft Skills
-*Supportive Team-player*
- <br>
-I genuinely enjoy working with others; camaraderie and support are always great motivators for creating high-quality projects. The Makers course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively.
-<br>
-<br>
-This came into play during our Makers Final Project, where I encouraged other quieter members to offer their thoughts and present my own. I also solidified my skills by either providing leadership or encouraging and supporting others who lead, depending on the team's needs.
-<br>
-My previous experience working within a tech team has been beneficial, too; it was imperative that I could mediate between our team members to communicate all requests and technical issues.
- <br>
-  <br>
-*Creative*
- <br>
-My art background is excellent and gave me an eye for front-end design and even structuring code in a readable fashion. This skill has also allowed me to make or edit assets if needed, understand copyright, and design stylish modern web apps. Knowing how to use a given space was critical throughout my education and working within the art industry, which also applies well to the software industry for UX/UI design and code refactoring.
- <br>
-  <br>
-*Problem-solver*
- <br>
-Out-of-the-box thinking has always come to me naturally and has been an aspect of work that I find incredibly fun and satisfying. I navigated a large UK-wide company to resolve customer complaints; I constantly edited commission-based changes per client requests. My work as a CMS developer involved understanding and solving system errors frequently occurring, working around software that was in place for many years and changed by multiple developers.
- <br>
-  <br>
-The Makers Academy Software Development course solidified my confidence with this skill by constantly pushing challenges that tested technical and logical thinking; I continuously commit similar challenges on Github.
- <br>
-  <br>
-*Self-motivated*
- <br>
-Now that I am developing and maintaining software, my enthusiasm is boundless. I am eager to learn as much as possible and continue improving as a developer. I am excited to work on new challenges, gain new knowledge and use my existing skills to enhance my future projects.
- <br>
-  <br>
-I am continuing my personal development through the Odin Project, and I plan to use React JS to build a new art portfolio. I love that there is always something to learn within the software industry, as long as you have the motivation to do so.
- <br>
-  <br>
-*Communicator*
- <br>
-As a freelance designer, I had to build strong relationships with my clients and understand their needs. This skill relates well to a consultancy role where I will also need to develop similar relationships with clients; however, instead of creating art, I will be coding for them.
- <br>
-  <br>
-I have clear written and vocal communication skills; I recommend watching our demo day presentation of Seedle below to see this in action (David and I are speaking). Much of my early education was based on performing arts, which has proven an invaluable source of confidence and clarity for presentations and discussions.
- <br>
+
 # Education
 **Makers Academy 2024**(Jan 2024 – May 2024)
 <br>
