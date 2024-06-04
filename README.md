@@ -1,6 +1,6 @@
 # <p align="center" style="font-weight: bold; font-size: 30px;">Seyi Toluhi - Sofware Developer</p>
 
-<div style="text-align: center;">
+<div align="center">
     <a href="https://github.com/Seyi-Toluhi/CV/blob/main/README.md#about-me">About Me</a> | 
     <a href="https://github.com/Seyi-Toluhi/CV/blob/main/README.md#tech-skills">Tech Skills</a> | 
     <a href="https://github.com/Seyi-Toluhi/CV/blob/main/README.md#projects">Projects</a> | 
