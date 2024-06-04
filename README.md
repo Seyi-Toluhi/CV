@@ -86,6 +86,46 @@ I’m currently working on [Lingo Voyage](https://github.com/Seyi-Toluhi/languag
 </table>
 
 # Soft Skills
+*Supportive Team-player*
+ <br>
+
+I enjoy collaborating with others, sharing ideas, and creating an environment to effectively identify the best solutions for creating high-quality projects. I worked on individual and group projects during the Makers boot camp and I was comfortable with either arrangement. One of my strengths is immersing myself fully as a team member and being flexible with the team's needs. 
+<br>
+<br>
+I demonstrated this during my final project at the Makers boot camp when a key team member became unavailable, and we had the option to skip the project presentation. Instead of choosing this route, I stepped up, rallied the remaining team members, and reorganised and redistributed the workload. This ensured a successful project presentation. This experience also strengthened my skills by allowing me to provide leadership and support others, depending on the team's needs.
+<br>
+<br>
+
+*Creative*
+I have demonstrated my creativity through my work on the [Lingo Voyage project](https://github.com/Seyi-Toluhi/language_learning_app), where I designed every element, from the user interface to the backend and database structure. I recommend watching my demo video of Lingo Voyage. 
+<br>
+<br>
+In my Makers boot camp final project, my strategic and creative decisions in database design with MongoDB ensured streamlined data management, scalability, integrity, and efficiency. <br>
+<br>
+*Problem-solver*
+<br>
+Problem-solving has always come to me naturally and has been an aspect of software engineering that I find incredibly fun and satisfying. In my final boot camp project, I was faced with technical problems such as deciding whether to store event data within the user schema or separately, I opted for a unified approach to streamline data management, ensure data integrity and scalability, and simplify queries to the database. This strategic decision underscores my ability to identify and implement IT-based solutions tailored to project requirements. 
+<br>
+<br>
+In my current role as a compliance caseworker, problem-solving is a part of my daily task. I liaise with customers to address and resolve problems related to their tax affairs. Having this skill has come in handy in my software development journey.
+<br>
+<br>
+
+*Self-motivated*
+<br>
+As I delve deeper into software development and maintenance, my passion and commitment know no bounds. I'm keen on constantly soaking up knowledge and refining my skills as a developer. Embracing fresh challenges, acquiring new insights, and leveraging my current abilities to elevate forthcoming projects fill me with anticipation.
+ <br>
+ <br>
+I'm pushing my personal growth forward with the Lingo Voyage project and mapping out a new portfolio project using the MERN stack. The ever-evolving landscape of the software industry never fails to captivate me; it always promises something novel to explore, and I am driven enough to pursue it.
+<br>
+<br>
+
+*Communicator*
+ <br>
+With over 5 years of experience as a Legal officer and HO compliance caseworker, I have built strong communication skills through relationships with my clients to understand and meet their needs. This skill is vital when building similar relationships with clients to deliver software products that meet real-life user expectations.
+<br>
+<!-- I have clear written and vocal communication skills; I recommend watching our demo day presentation of Seedle below to see this in action (David and I are speaking).  -->
+<br>
 
 # Education
 **Makers Academy 2024**(Jan 2024 – May 2024)
