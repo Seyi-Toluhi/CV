@@ -11,7 +11,7 @@
 </div>
 
 # About me
-A dedicated software developer, always striving to innovate and excel in crafting efficient solutions. With over 5 years of experience as a Legal officer and HO compliance caseworker, I will leverage my natural attention to detail, creativity and experience with clients to coding and consultation with clients. Throughout my experience, I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems with clientele and software.
+Creative and motivated Software Developer committed to producing high-quality, test-driven, well-documented code interested in all facets of software engineering. I bring a unique perspective shaped by a background in law, which has given me invaluable divergent thinking skills, strong problem-solving skills, and a meticulous approach to my projects.
 
 My journey through a rigorous software engineering boot camp at [Makers Academy](https://makers.tech/about-us/) has given me a strong foundation, which I continually enhance through self-learning and personal projects. I am excited to collaborate with dynamic agile teams and aim to apply my skills to tackle challenges and adapt to the ever-evolving world of software development.
 
